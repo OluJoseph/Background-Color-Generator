@@ -14,3 +14,4 @@ function setGradient() {
 
 input1.addEventListener("input", setGradient);
 input2.addEventListener("input", setGradient);
+
